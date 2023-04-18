@@ -14,9 +14,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=eulergomees&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  <a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"</a>
+<div align="center"> 
+<a href="https://www.linkedin.com/in/euler-gomes-23628b218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://stackoverflow.com/users/20480281/euler" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"</a>
 </div>
   
 
@@ -37,10 +37,5 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)&nbsp;
 ![FireBase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0D1117)&nbsp;
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{eulergomees}/count.svg" /></p> 
-<br></div>
   
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7708C4&height=120&section=footer"/>
