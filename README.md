@@ -17,23 +17,4 @@
 </div>
   
 
-### Main skills:
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-0D1117?&style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)&nbsp;
- 
-  
-### Studying in this moment:
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1117)&nbsp;
-![FireBase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)&nbsp;
-
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7708C4&height=120&section=footer"/>
