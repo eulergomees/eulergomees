@@ -1,10 +1,13 @@
 
-## Hi everyone! I'm Euler
+## Hey there! I'm Euler 👋
 I’m a Computer engineering student, passionite about technology, continuous learning, curious and multidisciplinary, I’m always striving to evolve and build meaningful solutions.
 
-## Skills
+Involved with innovation and creation of solutions combining technology with the user's daily life.
+
+## Skills ⛏
 My skills include:
 <p>  
+  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="26">
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="26">
   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="26" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="26" />
@@ -20,12 +23,12 @@ My skills include:
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulergomees&layout=compact&hide_border=true&title_color=7708C4&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-#### Connect with me
+#### Connect with me 🔗
 
 <a href="[https://linkedin.com/in/kellynvd](https://www.linkedin.com/in/euler-gomes-23628b218/)" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
     alt="Euler's LinkedIn"
-    height="20">
+    height="26">
 </a>
 
 
