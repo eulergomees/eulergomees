@@ -25,11 +25,4 @@ My skills include:
 
 #### Connect with me 🔗
 
-<a href="[https://linkedin.com/in/kellynvd](https://www.linkedin.com/in/euler-gomes-23628b218/)" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
-    alt="Euler's LinkedIn"
-    height="28">
-</a>
-
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230175C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/euler-gomes-23628b218/)](https://www.linkedin.com/in/euler-gomes-23628b218/)
