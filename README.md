@@ -1,27 +1,24 @@
 
 ## Hey there! I'm Euler 👋
-I’m a Computer engineering student, passionite about technology, continuous learning, curious and multidisciplinary, I’m always striving to evolve and build meaningful solutions.
+I’m a Computer engineering student focused on Artificial Neural Networks, Low Latency Systems, Modern Architectures and Innovate solutions.
 
 Involved with innovation and creation of solutions combining technology with the user's daily life.
 
 ## Skills ⛏
 My skills include:
 <p>  
-  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="28">
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="28">
-  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="28" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" />
+  <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28"/>
+  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="28" />
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=ffcd34" height="28">
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="28">
-  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="28">
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="28">
 </p>
 
-
-<div align="center">  
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulergomees&layout=compact&hide_border=true&title_color=7708C4&text_color=00bfbf&bg_color=0d1117" />
-</div>
+## Studying at this time
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28">
+  <img alt="Cuda" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="28">
+</p>
 
 #### Connect with me 🔗
 
