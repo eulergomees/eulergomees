@@ -56,17 +56,6 @@ Currently working toward an MSc in ML-adjacent programs (UFMG / USP / UNICAMP) a
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eulergomees&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulergomees&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 <sub>Always learning. Always building.</sub>
 </div>
