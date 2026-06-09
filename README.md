@@ -15,7 +15,7 @@ Computer Engineering student @ IFMG Bambuí
 ## About me
 
 I'm interested in deep learning, model architectures, and the math behind them.  
-Currently working toward an MSc in ML-adjacent programs (UFMG / USP / UNICAMP) as a stepping stone to research.
+Currently working toward an MSc in ML-adjacent programs as a stepping stone to research.
 
 - 🎓 **Computer Engineering** — IFMG campus Bambuí
 - 🔬 **Thesis** — Daily weight gain (GMD) prediction in beef cattle via MLP (PyTorch)
